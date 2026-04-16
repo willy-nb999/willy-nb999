@@ -1,0 +1,5 @@
+{
+  "name": "HabitFlow",
+  "description": "Une application mobile intuitive pour établir, suivre et maintenir des habitudes positives avec synchronisation en temps réel.",
+  "requestFramePermissions": []
+}
